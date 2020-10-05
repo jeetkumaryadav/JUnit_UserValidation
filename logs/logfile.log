@@ -1,0 +1,16 @@
+INFO  | 2020-10-05 21:56:51 | [main] Junit_UserValidation.App (App.java:21) - Enter the First Name:
+INFO  | 2020-10-05 22:25:43 | [main] Junit_UserValidation.App (App.java:37) - Enter the First Name:
+INFO  | 2020-10-05 22:25:53 | [main] Junit_UserValidation.App (App.java:44) - Enter the Last Name:
+INFO  | 2020-10-05 22:25:56 | [main] Junit_UserValidation.App (App.java:51) - Enter the Email:
+INFO  | 2020-10-05 22:26:02 | [main] Junit_UserValidation.App (App.java:58) - Enter the Mobile Number:
+INFO  | 2020-10-05 22:26:08 | [main] Junit_UserValidation.App (App.java:61) - Invalid Entry. Enter the Mobile Number:
+INFO  | 2020-10-05 22:26:08 | [main] Junit_UserValidation.App (App.java:61) - Invalid Entry. Enter the Mobile Number:
+INFO  | 2020-10-05 22:26:50 | [main] Junit_UserValidation.App (App.java:37) - Enter the First Name:
+INFO  | 2020-10-05 22:26:53 | [main] Junit_UserValidation.App (App.java:44) - Enter the Last Name:
+INFO  | 2020-10-05 22:26:56 | [main] Junit_UserValidation.App (App.java:51) - Enter the Email:
+INFO  | 2020-10-05 22:27:02 | [main] Junit_UserValidation.App (App.java:58) - Enter the Mobile Number:
+INFO  | 2020-10-05 22:27:10 | [main] Junit_UserValidation.App (App.java:65) - Enter the Password:
+INFO  | 2020-10-05 22:27:19 | [main] Junit_UserValidation.App (App.java:68) - Invalid Entry. Enter the Password:
+INFO  | 2020-10-05 22:27:35 | [main] Junit_UserValidation.App (App.java:68) - Invalid Entry. Enter the Password:
+INFO  | 2020-10-05 23:09:04 | [main] Junit_UserValidation.App (App.java:37) - Enter the First Name:
+INFO  | 2020-10-06 00:31:34 | [main] Junit_UserValidation.App (App.java:37) - Enter the First Name:
