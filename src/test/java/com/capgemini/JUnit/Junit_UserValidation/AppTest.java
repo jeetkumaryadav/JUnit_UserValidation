@@ -63,7 +63,7 @@ private String Email;
     @Test
     public void givenPassword_WhenProper_ShouldReturnTrue()
     {
-        assertTrue("Invalid Password",app.validatePassword("mlnfhhhM112!"));
+        assertTrue("Invalid Password",app.validatePassword("jeetJEET@78"));
         assertFalse("Valid Password",app.validatePassword("jeetkrkr@jee.qw12"));
     }
 }
